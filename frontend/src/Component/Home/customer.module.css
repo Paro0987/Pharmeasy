@@ -1,0 +1,40 @@
+.container {
+    /* border:2px solid red; */
+    padding:2%;
+  }
+  
+  .container > h3 {
+    color: #2d88c5;
+    margin-left: 2%;
+  }
+  
+  .user {
+    margin-bottom: 1.5%;
+  }
+  
+  .user > p {
+    margin: 0 3.5%;
+  }
+  
+  .user > p:nth-child(1) {
+    color: #363d41;
+    font-size: 1.1rem;
+  }
+  
+  .user > p:nth-child(2) {
+    font-size: 1rem;
+    color: gray;
+  }
+  
+  .message {
+    /* border:1px solid black; */
+    background-color: #f2fff8;
+    height: 260px;
+    color: #515a60;
+    font-size: 1rem;
+    padding: 4%;
+    box-sizing: border-box;
+    margin: 4%;
+    border-radius: 10px;
+    overflow:hidden;
+  }

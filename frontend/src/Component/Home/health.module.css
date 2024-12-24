@@ -1,0 +1,46 @@
+.container{
+    /* border: 1px dashed pink; */
+    width:100%;
+    margin-top: 4%;
+}
+.container_text{
+    margin-left: 3%;
+    font-size: 1.5rem;
+}
+.sub_container{
+    margin-top: 2%;
+    /* border: 1px dashed greenyellow; */
+    
+  
+}
+.image_box{
+    margin:1.5%;
+    /* border:1px solid black; */
+    height:220px;
+    
+    
+
+}
+.image{
+    width:80%;
+    margin:auto;
+    height:70%;
+    border-radius: 5px;
+ 
+
+}
+.image img {
+    height:100%;
+    width:100%;
+    object-fit: cover;
+}
+.text{
+    width:80%;
+    margin:auto;
+    height:30%;
+
+}
+.text p{
+    text-align: center;
+    font-size: 0.9rem;
+}
